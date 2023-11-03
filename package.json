@@ -1,5 +1,5 @@
 {
-  "homepage": "https://tordbm.github.io/ExerciseApp-client",
+  "homepage": "https://tordbm.github.io",
   "name": "exercise-app",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -b gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "predeploy": "yarn build"
   },
   "eslintConfig": {
     "extends": [
