@@ -1,9 +1,7 @@
-import AppHeader from "../AppHeader"
-
 
 function HomePage() {
     return (
-        <></>
+        <>Hello</>
     )
 }
 
