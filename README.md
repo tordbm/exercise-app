@@ -1,6 +1,6 @@
 # Exercise app built in React
 
-Currently deployed version: [https://tordbm.github.io/exercise-app/]
+Currently deployed version: [https://tordbm.github.io/exercise-app/](https://tordbm.github.io/exercise-app/)
 
 ## Available Scripts
 
