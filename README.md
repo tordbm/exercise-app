@@ -1,5 +1,7 @@
 # Exercise app built in React
 
+Currently deployed version: [https://tordbm.github.io/exercise-app/]
+
 ## Available Scripts
 
 In the project directory, you can run:
