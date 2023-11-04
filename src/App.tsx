@@ -7,7 +7,7 @@ import PageNotFound from './pages/PageNotFound';
 
 function App() {
   return (
-    <BrowserRouter basename="/exercise-app/home">
+    <BrowserRouter basename="/exercise-app">
       <AppHeader/>
       <Routes>
         <Route element={<Layout />}>
