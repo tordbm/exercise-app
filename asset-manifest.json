@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/exercise-app/static/css/main.073c9b0a.css",
-    "main.js": "/exercise-app/static/js/main.a4cfd36a.js",
+    "main.css": "/exercise-app/static/css/main.db798329.css",
+    "main.js": "/exercise-app/static/js/main.b88c185b.js",
     "static/js/787.4ca390c8.chunk.js": "/exercise-app/static/js/787.4ca390c8.chunk.js",
-    "static/media/logo.svg": "/exercise-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/exercise-app/index.html",
-    "main.073c9b0a.css.map": "/exercise-app/static/css/main.073c9b0a.css.map",
-    "main.a4cfd36a.js.map": "/exercise-app/static/js/main.a4cfd36a.js.map",
+    "main.db798329.css.map": "/exercise-app/static/css/main.db798329.css.map",
+    "main.b88c185b.js.map": "/exercise-app/static/js/main.b88c185b.js.map",
     "787.4ca390c8.chunk.js.map": "/exercise-app/static/js/787.4ca390c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a4cfd36a.js"
+    "static/css/main.db798329.css",
+    "static/js/main.b88c185b.js"
   ]
 }
