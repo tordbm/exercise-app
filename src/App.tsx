@@ -4,6 +4,7 @@ import AppHeader from './AppHeader';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Layout from './Layout';
 import PageNotFound from './pages/PageNotFound';
+import AppFooter from './AppFooter';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path="*" element={<PageNotFound />} />
         </Route>
       </Routes>
+      <AppFooter/>
     </BrowserRouter>
   );
 }
